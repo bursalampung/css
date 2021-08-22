@@ -9,8 +9,8 @@ if(!empty($_POST["send"])) {
     
     $mail->Port = 587;
     
-    $mail->Username = "YOUR SMTP USERNAME";
-    $mail->Password = "YOUR SMTP PASSWORD";
+    $mail->Username = "oranglampung999@gmail.com";
+    $mail->Password = "sayanksayank";
     
     $mail->Mailer = "smtp";
     
